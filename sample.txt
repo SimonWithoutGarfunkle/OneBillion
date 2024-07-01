@@ -1,0 +1,1000 @@
+Cracow;14,0
+Bulawayo;96,9
+Conakry;90,7
+Hamburg;26,4
+Istanbul;18,0
+Bridgetown;-9,9
+Hamburg;-50,7
+Palembang;-80,1
+Palembang;-0,5
+Hamburg;-6,6
+Roseau;-82,0
+Hamburg;70,0
+Cracow;-27,4
+Hamburg;60,9
+Bridgetown;-83,4
+Roseau;44,0
+Bulawayo;-43,5
+St. John's;-94,5
+Roseau;25,5
+Hamburg;55,9
+Cracow;-27,3
+Roseau;-63,8
+Bridgetown;-18,5
+Bulawayo;-93,4
+Roseau;44,0
+Palembang;-30,0
+Bridgetown;17,5
+St. John's;-84,2
+Conakry;-98,5
+Conakry;5,2
+Roseau;18,1
+Hamburg;-32,7
+Conakry;-62,3
+Cracow;-39,4
+Hamburg;43,5
+Palembang;83,3
+Roseau;54,4
+Bulawayo;89,5
+Palembang;98,6
+Istanbul;53,9
+Conakry;73,5
+Hamburg;-49,6
+Hamburg;-91,5
+Bulawayo;-2,4
+Bridgetown;4,5
+Conakry;-17,2
+Istanbul;20,2
+Hamburg;2,7
+Cracow;72,0
+Istanbul;-78,3
+Conakry;-91,6
+Conakry;94,2
+Istanbul;-78,7
+Conakry;-5,0
+Roseau;-4,4
+Cracow;-69,2
+Bulawayo;-21,7
+Palembang;-45,9
+St. John's;-35,9
+Istanbul;38,9
+Bulawayo;-87,7
+Hamburg;-87,8
+Bridgetown;-22,8
+Bridgetown;44,4
+Hamburg;-11,2
+Palembang;-22,7
+Hamburg;-0,3
+St. John's;-95,2
+St. John's;56,5
+Palembang;-56,6
+Palembang;-40,8
+Conakry;-35,5
+Roseau;-40,9
+Conakry;87,7
+St. John's;-47,7
+Palembang;63,1
+Cracow;-5,0
+Conakry;-44,4
+Conakry;37,1
+Hamburg;53,7
+Bulawayo;2,9
+Roseau;-76,7
+Cracow;64,5
+Bridgetown;-55,2
+Istanbul;35,4
+Roseau;-6,4
+Cracow;-32,3
+St. John's;-44,9
+Istanbul;-92,0
+Roseau;-61,4
+Cracow;32,7
+Istanbul;-70,9
+Roseau;-89,5
+Bulawayo;-51,6
+Palembang;86,0
+Bulawayo;81,4
+Istanbul;95,5
+Bulawayo;56,8
+Bridgetown;-59,6
+Palembang;49,1
+Roseau;7,1
+Palembang;71,5
+Hamburg;99,0
+Palembang;-35,4
+Bridgetown;56,5
+Hamburg;60,9
+Bulawayo;-85,4
+Cracow;-62,4
+Palembang;56,8
+Conakry;37,5
+Palembang;68,3
+Conakry;-60,9
+Roseau;-18,9
+Istanbul;53,7
+Cracow;87,0
+Palembang;99,5
+Bulawayo;-62,6
+Palembang;25,1
+Bulawayo;45,5
+Bulawayo;40,2
+Bulawayo;95,4
+Istanbul;-52,9
+Roseau;-64,2
+Istanbul;-15,5
+Cracow;2,7
+Bulawayo;34,6
+Roseau;-90,7
+Hamburg;2,3
+Bridgetown;-7,4
+Palembang;40,5
+Roseau;16,4
+Istanbul;17,2
+Conakry;2,9
+Conakry;-37,8
+Bulawayo;-14,3
+Bridgetown;82,3
+Cracow;21,4
+Cracow;-81,8
+Roseau;75,1
+Conakry;-21,5
+Roseau;7,4
+Istanbul;33,9
+Roseau;11,0
+Cracow;81,7
+Hamburg;-32,8
+Hamburg;-70,4
+Conakry;-47,3
+Bridgetown;48,9
+Roseau;-18,1
+Cracow;49,2
+Bridgetown;-87,3
+Bulawayo;12,8
+Bridgetown;17,0
+Hamburg;30,4
+Conakry;-40,2
+Palembang;95,3
+Conakry;4,3
+Bulawayo;97,6
+Bridgetown;-49,6
+Bridgetown;-58,0
+Palembang;-40,4
+Cracow;-70,9
+Conakry;-86,1
+Hamburg;-54,6
+Conakry;-66,9
+Cracow;-1,9
+Conakry;-32,7
+Palembang;54,1
+Bridgetown;-80,8
+Cracow;-67,7
+Conakry;-21,5
+St. John's;90,9
+Bridgetown;61,3
+Bridgetown;63,4
+St. John's;47,3
+Palembang;-94,7
+Palembang;65,9
+Istanbul;-4,5
+Roseau;48,7
+Hamburg;75,6
+Conakry;-94,0
+Bulawayo;-83,1
+Istanbul;-24,0
+Palembang;-21,8
+St. John's;81,3
+Istanbul;64,1
+Bridgetown;63,9
+Istanbul;-57,8
+Bridgetown;-10,6
+Hamburg;-28,3
+Conakry;-65,9
+Palembang;21,6
+St. John's;88,9
+Conakry;41,4
+Palembang;-83,1
+Bridgetown;-24,2
+Hamburg;75,5
+St. John's;54,3
+Istanbul;42,0
+Hamburg;31,3
+Cracow;84,9
+Hamburg;40,7
+Conakry;-44,8
+St. John's;-61,8
+Roseau;14,6
+Bridgetown;70,1
+Cracow;93,6
+Palembang;-60,0
+Hamburg;21,4
+Palembang;-36,3
+Roseau;47,9
+St. John's;75,7
+Cracow;-54,8
+Bridgetown;14,3
+Bulawayo;89,8
+Bridgetown;96,5
+Cracow;5,0
+St. John's;-95,2
+St. John's;0,7
+Palembang;-6,5
+Cracow;83,5
+Hamburg;-5,4
+Hamburg;-2,7
+Roseau;62,5
+Roseau;-16,6
+Roseau;7,8
+Bridgetown;-31,6
+Hamburg;2,7
+Conakry;-91,3
+Istanbul;65,5
+Istanbul;-88,3
+Bridgetown;-99,5
+Hamburg;-13,1
+Roseau;-7,4
+Roseau;16,6
+Hamburg;2,3
+Bridgetown;19,8
+Conakry;-20,8
+Bulawayo;-90,3
+Conakry;18,6
+St. John's;89,6
+Bulawayo;33,0
+Conakry;-69,9
+Istanbul;-95,1
+Cracow;-83,3
+Cracow;28,2
+Palembang;-85,6
+Bridgetown;-77,8
+St. John's;-61,4
+Roseau;1,9
+Roseau;-41,1
+Bridgetown;-93,4
+Roseau;-2,4
+Istanbul;-0,9
+Conakry;90,8
+Conakry;-62,0
+Cracow;-19,7
+Bridgetown;92,2
+St. John's;29,2
+Roseau;93,6
+Roseau;39,3
+Roseau;61,1
+St. John's;19,1
+Istanbul;-83,5
+Bulawayo;-6,9
+Hamburg;-99,0
+Hamburg;22,6
+Hamburg;-1,9
+Hamburg;53,5
+Roseau;-2,6
+Palembang;-33,0
+Roseau;60,3
+Palembang;-7,5
+Palembang;-7,8
+Roseau;52,0
+Roseau;-50,4
+Cracow;-32,2
+St. John's;-71,5
+Hamburg;8,5
+Bulawayo;5,4
+Hamburg;49,2
+Cracow;-31,8
+Bulawayo;30,3
+Conakry;27,0
+Roseau;2,2
+Istanbul;-2,0
+Istanbul;91,9
+Cracow;63,4
+Istanbul;7,2
+Bulawayo;-51,1
+Istanbul;33,4
+Conakry;86,9
+Bulawayo;-51,5
+Bridgetown;-27,6
+Conakry;73,5
+St. John's;-49,9
+Palembang;-57,2
+Hamburg;-95,3
+Conakry;20,5
+Conakry;-64,5
+Roseau;-25,8
+Conakry;-41,4
+Bulawayo;-20,2
+Roseau;-57,7
+Roseau;47,8
+Hamburg;-97,0
+Palembang;-34,7
+St. John's;25,8
+Roseau;92,1
+Conakry;71,0
+Roseau;-40,2
+Bridgetown;59,5
+Roseau;56,2
+Conakry;5,7
+Bulawayo;-2,0
+Hamburg;90,1
+Roseau;44,8
+Roseau;63,7
+Bridgetown;-74,6
+St. John's;-74,8
+Conakry;-35,5
+Hamburg;-90,5
+Bulawayo;-57,7
+Hamburg;64,6
+Bulawayo;51,8
+Palembang;-93,4
+Roseau;-41,4
+Cracow;46,8
+Roseau;21,4
+Cracow;35,2
+Cracow;58,4
+Cracow;-66,7
+Istanbul;71,5
+St. John's;12,8
+Hamburg;-6,6
+Bulawayo;-40,9
+Hamburg;-19,2
+Istanbul;67,1
+Palembang;80,3
+Hamburg;-97,7
+Bridgetown;-88,8
+Hamburg;-78,4
+St. John's;47,8
+Cracow;-10,9
+Roseau;20,1
+Bulawayo;89,4
+Bridgetown;-52,1
+St. John's;22,7
+Bridgetown;-92,5
+Istanbul;-96,9
+Bulawayo;-4,1
+Bulawayo;-52,9
+Palembang;-61,9
+Bridgetown;-96,7
+Roseau;-4,1
+Conakry;2,0
+Cracow;-22,4
+Palembang;-7,2
+Cracow;-73,7
+Istanbul;1,3
+Istanbul;39,4
+Cracow;-7,9
+Bulawayo;-29,8
+Roseau;84,4
+Hamburg;8,7
+Palembang;-39,0
+Roseau;-65,4
+Hamburg;-27,1
+Roseau;-87,4
+Istanbul;-24,9
+Palembang;80,7
+Conakry;-50,7
+Bridgetown;22,3
+Palembang;96,4
+Roseau;-56,2
+Palembang;82,5
+Conakry;85,9
+Palembang;8,8
+Bulawayo;2,6
+Conakry;-54,2
+Istanbul;-94,0
+Istanbul;25,6
+St. John's;31,1
+St. John's;-4,4
+St. John's;-59,6
+Palembang;-91,0
+St. John's;62,1
+Roseau;91,5
+Hamburg;-39,5
+Hamburg;95,9
+Istanbul;-23,5
+Palembang;42,7
+Istanbul;15,2
+Bridgetown;-76,2
+Conakry;32,9
+Cracow;71,7
+Roseau;53,7
+Cracow;-66,8
+Palembang;-78,9
+Bridgetown;-51,5
+Conakry;28,3
+Bridgetown;-64,8
+Hamburg;-18,0
+St. John's;14,7
+Conakry;14,3
+Roseau;25,5
+Cracow;-55,7
+Cracow;68,0
+Istanbul;81,0
+Bulawayo;-35,7
+St. John's;78,3
+Bulawayo;77,5
+Hamburg;30,7
+Conakry;8,1
+Roseau;33,2
+Conakry;23,5
+St. John's;80,8
+Bridgetown;38,5
+Bulawayo;-16,6
+St. John's;44,2
+Cracow;52,3
+St. John's;-98,9
+Roseau;-78,2
+Roseau;-64,4
+Istanbul;-38,4
+Istanbul;-83,0
+Hamburg;-1,7
+Cracow;33,4
+St. John's;-95,9
+Roseau;-88,1
+Bulawayo;31,8
+Istanbul;-20,7
+Palembang;25,3
+Hamburg;86,7
+Bridgetown;-59,2
+St. John's;24,3
+Roseau;47,8
+Palembang;-67,7
+Palembang;41,2
+Bulawayo;-67,6
+Palembang;65,6
+Istanbul;22,8
+Cracow;-35,9
+Bulawayo;38,6
+St. John's;29,0
+Bulawayo;-48,7
+Conakry;42,1
+St. John's;-49,0
+Palembang;64,4
+Bulawayo;-47,1
+Cracow;20,7
+Hamburg;65,1
+Bulawayo;48,7
+Roseau;65,8
+Bulawayo;36,2
+Bulawayo;-8,0
+Palembang;-23,3
+Conakry;92,1
+Istanbul;-5,1
+St. John's;-19,1
+Bridgetown;1,3
+Bulawayo;-0,3
+Bridgetown;37,4
+Cracow;-99,5
+Hamburg;37,5
+Conakry;94,7
+Conakry;-90,1
+Bulawayo;8,5
+Palembang;-96,6
+Hamburg;35,2
+Palembang;-73,6
+St. John's;2,8
+Istanbul;-61,7
+Palembang;-70,5
+Istanbul;23,7
+Istanbul;55,9
+Istanbul;-71,8
+St. John's;33,1
+Roseau;8,2
+Istanbul;86,0
+Bridgetown;-80,0
+Conakry;-90,0
+St. John's;96,1
+Bulawayo;5,8
+Istanbul;32,6
+Bridgetown;-54,8
+Bridgetown;-9,4
+Bridgetown;98,9
+Palembang;-61,8
+Cracow;6,6
+Bulawayo;4,3
+Bulawayo;66,1
+Roseau;38,8
+Hamburg;-67,6
+Conakry;-9,7
+Palembang;-9,9
+Cracow;-58,3
+Conakry;25,7
+Hamburg;41,8
+St. John's;54,9
+Roseau;-5,0
+Conakry;68,4
+Roseau;30,8
+Cracow;-6,8
+Roseau;-5,4
+Conakry;-23,7
+Conakry;20,5
+St. John's;-30,5
+Palembang;-99,2
+Cracow;55,8
+Istanbul;74,8
+Bulawayo;-17,3
+Bulawayo;56,3
+Istanbul;-55,3
+Istanbul;-67,5
+Istanbul;-7,7
+Hamburg;33,4
+Conakry;-17,7
+Bridgetown;-28,0
+Bulawayo;57,3
+St. John's;-97,8
+Conakry;63,8
+Palembang;10,0
+Roseau;1,1
+Bulawayo;-40,8
+Conakry;-65,9
+Bridgetown;-25,1
+Hamburg;59,8
+Bulawayo;-60,0
+Istanbul;-93,9
+Conakry;-59,4
+Istanbul;86,4
+St. John's;50,7
+Palembang;20,7
+Bulawayo;-99,3
+Hamburg;-87,3
+Bulawayo;-59,4
+Roseau;28,1
+Roseau;-35,4
+St. John's;-62,1
+Bridgetown;-29,4
+Palembang;87,1
+Hamburg;-27,8
+Conakry;37,0
+Bridgetown;-50,6
+Hamburg;80,7
+Istanbul;-9,8
+Istanbul;28,5
+Bulawayo;-96,4
+Bridgetown;71,5
+Conakry;88,9
+Cracow;-65,0
+Roseau;-95,2
+Istanbul;31,0
+Istanbul;-82,2
+Hamburg;-73,6
+St. John's;-56,1
+Conakry;20,3
+St. John's;-80,9
+Roseau;32,3
+Bridgetown;-76,3
+Hamburg;63,2
+St. John's;58,8
+Hamburg;-34,2
+Cracow;-40,4
+Bulawayo;-5,0
+Istanbul;6,0
+Istanbul;-62,8
+Bulawayo;58,5
+Cracow;5,4
+Hamburg;82,5
+Bulawayo;-53,3
+Bulawayo;61,2
+St. John's;96,6
+Istanbul;19,7
+Conakry;-77,3
+Bulawayo;-44,7
+Cracow;75,2
+Roseau;-97,0
+Palembang;75,5
+St. John's;-89,3
+Istanbul;-9,9
+Cracow;-38,2
+St. John's;-67,0
+Conakry;69,2
+Roseau;-37,8
+Hamburg;-49,8
+Bulawayo;31,8
+Roseau;94,2
+Palembang;42,7
+Bulawayo;-35,8
+St. John's;-92,2
+Roseau;-85,6
+St. John's;-52,2
+Cracow;-54,5
+Bulawayo;24,3
+Palembang;84,1
+Conakry;87,8
+Conakry;87,4
+Palembang;-54,4
+Cracow;28,9
+Palembang;-75,7
+Bulawayo;11,0
+Hamburg;15,6
+Conakry;84,3
+Palembang;86,2
+Palembang;40,2
+Conakry;-36,9
+Bulawayo;-45,2
+Bridgetown;-6,2
+Bridgetown;-90,2
+Conakry;-92,5
+Conakry;-53,3
+Bridgetown;-1,6
+St. John's;-2,4
+St. John's;65,1
+Cracow;-84,2
+Bulawayo;29,7
+St. John's;12,4
+Conakry;27,5
+Hamburg;-95,6
+Palembang;-19,8
+Hamburg;96,7
+Conakry;18,7
+St. John's;84,0
+Palembang;-61,8
+Roseau;38,9
+Roseau;-81,4
+Bridgetown;-58,9
+Istanbul;-12,6
+Cracow;-64,3
+Bridgetown;17,9
+St. John's;-95,9
+Hamburg;-7,0
+Istanbul;-89,4
+St. John's;8,4
+Roseau;-29,4
+Istanbul;15,4
+Bulawayo;83,3
+Hamburg;-56,3
+Palembang;-74,3
+Istanbul;-80,7
+Palembang;-14,4
+Cracow;41,2
+Cracow;52,9
+Cracow;-88,1
+Palembang;50,9
+Roseau;-48,8
+Istanbul;-24,9
+St. John's;-37,6
+Istanbul;-67,9
+Palembang;-34,3
+Conakry;23,3
+Bulawayo;-26,8
+St. John's;-60,5
+Bulawayo;73,3
+Roseau;55,5
+Hamburg;26,8
+Conakry;-90,4
+St. John's;-88,7
+Istanbul;-53,9
+Roseau;-9,0
+Cracow;-92,9
+Hamburg;-2,6
+St. John's;-63,1
+Cracow;66,8
+Bridgetown;4,6
+Conakry;-58,3
+Bridgetown;-58,4
+Bulawayo;20,9
+Istanbul;58,7
+Palembang;60,7
+Hamburg;-56,2
+Istanbul;91,4
+Bridgetown;-30,4
+Bulawayo;44,7
+Roseau;-37,8
+Cracow;-60,0
+Palembang;-30,4
+St. John's;22,0
+Hamburg;6,9
+Istanbul;-10,5
+Cracow;70,1
+Palembang;-86,9
+Cracow;12,5
+Roseau;3,5
+Cracow;1,8
+Cracow;86,3
+Conakry;-20,2
+Istanbul;89,6
+Istanbul;47,7
+Cracow;78,3
+Conakry;-72,9
+St. John's;-56,6
+Conakry;74,7
+Conakry;15,7
+Palembang;-36,4
+Bulawayo;-41,7
+Conakry;39,9
+Cracow;95,6
+Cracow;-76,7
+Hamburg;31,1
+Hamburg;-19,2
+Cracow;-89,8
+Hamburg;-86,3
+Palembang;-19,9
+Roseau;-10,0
+St. John's;-81,7
+St. John's;-43,9
+Bulawayo;-3,1
+Palembang;-74,8
+Bulawayo;39,6
+Bulawayo;-77,9
+Cracow;-6,0
+St. John's;6,2
+Conakry;-25,9
+Conakry;-9,4
+Roseau;-81,6
+Palembang;92,5
+Istanbul;98,6
+Roseau;93,3
+Bridgetown;36,0
+Cracow;-97,6
+Palembang;-57,8
+Hamburg;-97,5
+Bulawayo;-6,8
+Bulawayo;-85,4
+Conakry;81,2
+St. John's;39,7
+Istanbul;-94,6
+St. John's;-30,5
+Bulawayo;26,0
+Bulawayo;0,5
+Roseau;74,3
+Roseau;-78,0
+Conakry;12,5
+Bulawayo;-72,5
+Istanbul;-12,2
+Palembang;88,1
+Hamburg;53,2
+Istanbul;-59,6
+St. John's;-19,6
+St. John's;29,0
+Bulawayo;29,9
+Bulawayo;-92,5
+Hamburg;-29,3
+Conakry;-5,1
+St. John's;-34,2
+Istanbul;71,7
+Cracow;98,6
+Bulawayo;-9,2
+Bulawayo;-14,9
+Conakry;55,0
+Palembang;-58,5
+Bridgetown;63,8
+Bulawayo;29,7
+Palembang;26,8
+Hamburg;69,7
+Conakry;25,3
+Roseau;31,2
+Cracow;30,4
+Hamburg;96,5
+Bridgetown;-41,4
+Palembang;-25,3
+Cracow;13,8
+Conakry;-17,2
+Istanbul;-22,8
+Cracow;-21,3
+Conakry;-46,9
+Bulawayo;86,9
+Roseau;-60,9
+St. John's;66,7
+St. John's;35,2
+Bridgetown;-79,3
+St. John's;-66,3
+Palembang;-71,9
+Cracow;56,4
+Conakry;92,8
+Roseau;95,7
+Palembang;41,7
+Palembang;95,7
+Istanbul;72,3
+Conakry;77,7
+Conakry;50,4
+St. John's;-39,6
+Bulawayo;62,6
+Roseau;97,8
+Istanbul;57,8
+Palembang;2,3
+Roseau;-21,0
+St. John's;-13,9
+Istanbul;-53,3
+Cracow;54,6
+Cracow;-46,4
+Istanbul;13,4
+Roseau;-16,2
+Hamburg;-3,8
+Palembang;-10,1
+Hamburg;-61,2
+Roseau;11,7
+Conakry;-48,8
+Bulawayo;88,1
+St. John's;-30,1
+Hamburg;10,5
+Cracow;-16,8
+Roseau;98,2
+Palembang;-81,1
+Conakry;37,9
+Bulawayo;2,3
+Conakry;85,0
+St. John's;76,1
+St. John's;-31,5
+Roseau;-51,7
+Bulawayo;-28,1
+Palembang;28,9
+Conakry;-85,5
+Cracow;-64,3
+Conakry;34,1
+Bulawayo;-75,7
+Bulawayo;42,8
+Bridgetown;56,4
+Palembang;18,8
+Cracow;46,8
+Cracow;-69,6
+Roseau;83,1
+St. John's;69,2
+Conakry;-67,6
+Conakry;8,7
+Istanbul;-47,2
+Roseau;-77,3
+Roseau;-20,0
+St. John's;48,5
+Roseau;-78,9
+Hamburg;39,9
+Palembang;-23,3
+Bridgetown;57,2
+Conakry;72,2
+Hamburg;33,0
+Cracow;-37,2
+Bulawayo;4,7
+St. John's;55,2
+St. John's;3,4
+Bridgetown;-14,4
+Cracow;-48,3
+Cracow;-27,3
+Palembang;-64,0
+Bridgetown;66,0
+Conakry;-16,3
+Bulawayo;11,0
+Cracow;-53,0
+Hamburg;44,7
+Conakry;36,9
+Cracow;-13,1
+Bridgetown;14,9
+Conakry;-44,9
+Roseau;-51,0
+Bridgetown;-9,5
+Hamburg;-95,0
+St. John's;79,5
+Bridgetown;-67,4
+Palembang;80,6
+Conakry;88,6
+St. John's;50,3
+Conakry;38,7
+Bulawayo;-24,4
+Palembang;61,1
+Istanbul;-62,1
+Istanbul;-38,1
+Istanbul;76,3
+Istanbul;40,2
+Roseau;99,1
+Palembang;0,6
+Palembang;-55,3
+Bridgetown;-77,3
+Cracow;-96,3
+Bulawayo;-86,4
+Conakry;-25,4
+Palembang;-43,1
+Istanbul;69,2
+St. John's;13,0
+Conakry;-28,1
+Conakry;9,5
+Bridgetown;-81,0
+Istanbul;-10,1
+Roseau;-27,9
+Bridgetown;74,6
+Bulawayo;17,5
+Bridgetown;37,6
+Roseau;-39,2
+Cracow;-57,2
+Istanbul;81,9
+Roseau;-18,8
+Roseau;-68,5
+Roseau;-42,0
+Bulawayo;80,4
+Bridgetown;62,4
+Roseau;-55,2
+Bulawayo;-94,0
+Hamburg;-74,2
+Palembang;-1,2
+Conakry;-88,1
+Bulawayo;58,1
+Istanbul;-41,1
+Istanbul;23,8
+Bulawayo;63,4
+Palembang;30,5
+Roseau;-39,5
+Palembang;-79,3
+St. John's;-83,9
+Bridgetown;71,1
+Palembang;49,5
+Bulawayo;54,6
+St. John's;89,8
+Roseau;90,4
+Conakry;-13,8
+Hamburg;36,7
+Palembang;48,5
+Roseau;-38,2
+Cracow;96,9
+St. John's;-31,3
+Bulawayo;-52,5
+Roseau;-3,4
+Bulawayo;-51,9
+Bulawayo;39,5
+Conakry;13,5
+St. John's;-61,9
+Istanbul;96,7
+Conakry;-13,9
+Roseau;8,2
+Bridgetown;-41,0
+Conakry;16,3
+Conakry;74,8
+St. John's;-89,6
+Bridgetown;44,7
+Hamburg;-3,8
+Palembang;10,7
+Bulawayo;-81,9
+St. John's;28,9
+Roseau;-70,1
+Palembang;62,8
+Palembang;2,5
+St. John's;-4,4
+Roseau;81,6
+Hamburg;95,6
+Cracow;32,4
+Bulawayo;43,6
+Hamburg;36,8
+Cracow;-88,8
+Bridgetown;-45,4
+Cracow;-10,2
+Cracow;44,3
+Hamburg;81,9
+Cracow;87,0
+Cracow;-21,2
+Istanbul;-90,4
+Hamburg;-31,9
+Roseau;-62,2
+Bulawayo;-54,9
+Palembang;-53,2
+Bridgetown;-43,1
+Bulawayo;56,9
+Istanbul;-35,1
+Bridgetown;95,2
+Hamburg;-81,8
+Hamburg;8,4
+Istanbul;42,9
+Cracow;-98,2
+Bridgetown;61,9
+Bridgetown;81,1
+Hamburg;-57,9
+St. John's;94,6
+St. John's;83,3
+Bridgetown;60,2
+Bulawayo;-92,7
+St. John's;-3,7
+St. John's;83,9
+St. John's;50,7
+Bridgetown;-85,4
+Istanbul;30,1
+Conakry;-15,5
+Conakry;40,1
+St. John's;-64,4
+Conakry;65,6
+Cracow;-19,0
+Cracow;-33,1
+Cracow;24,5
+Bridgetown;86,4
+Cracow;19,9
+St. John's;2,3
+Bulawayo;68,4
+Bridgetown;-65,9
+Bulawayo;34,6
+Hamburg;83,6
+Istanbul;-11,9
+Hamburg;63,4
+Istanbul;42,4
+Conakry;-47,2
+Hamburg;16,7
+Bulawayo;99,1
+Bridgetown;80,5
