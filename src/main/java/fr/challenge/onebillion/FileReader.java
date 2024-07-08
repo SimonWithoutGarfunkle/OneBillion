@@ -5,6 +5,8 @@ import org.slf4j.LoggerFactory;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -16,7 +18,7 @@ public class FileReader {
         List<String[]> result = new ArrayList<>();
         long count = 0;
         try {
-            BufferedReader reader = new BufferedReader(new java.io.FileReader(filename));
+            BufferedReader reader = Files.newBufferedReader(Paths.get(filename));
             String line = reader.readLine();
 
             while (line != null) {

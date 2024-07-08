@@ -15,7 +15,7 @@ public class GenerateMeasurements {
             "Hamburg", "Bulawayo", "Palembang", "St. John's", "Cracow", "Bridgetown",
             "Istanbul", "Roseau", "Conakry"
     };
-    private static final int NUM_MEASUREMENTS = 10_000_000; // 1 billion
+    private static final int NUM_MEASUREMENTS = 1_000_000_000; // 1 billion
     private static final Random RANDOM = new Random();
 
     public static void main(String[] args) {
