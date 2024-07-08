@@ -28,6 +28,7 @@ public class FileReader {
                     result.clear();
                     count=0;
                 }
+                Start.data.addAll(result);
             }
             reader.close();
         } catch (IOException e) {
