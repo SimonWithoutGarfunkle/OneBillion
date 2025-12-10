@@ -8,7 +8,7 @@ Le projet couvre l’ensemble du cycle : **génération du fichier de données**
 
 ## 🎯 Contexte
 
-Cette expérimentation fait suite à la conférence du **BreizhCamp 2024**  a laquelle j'ai assisté
+Cette expérimentation fait suite à la conférence vue au **BreizhCamp 2024**
 *“1 seconde pour traiter un milliard de lignes en Java ?”*
 
 L’objectif est de mettre en pratique les concepts abordés lors de la conférence à travers un projet concret, sans viser une solution extrême ou artificielle, mais en explorant progressivement les limites et axes d’optimisation.
