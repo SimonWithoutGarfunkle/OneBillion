@@ -1,9 +1,59 @@
-### One Billion Rows Challenge
-Je tente mon propre 1 billion rows challenge en Java.  
+# One Billion Rows Challenge – Java
 
-Le programme doit tout faire : de la génération du fichier de données, à sa lecture et son traitement.
+Ce dépôt contient une **expérimentation personnelle en Java** autour du *One Billion Rows Challenge*, un exercice de performance consistant à traiter de très grands volumes de données le plus efficacement possible.
 
-### Currently
-V1 qui sature en memoire apres 10 milions de lignes  
+Le projet couvre l’ensemble du cycle : **génération du fichier de données**, lecture, agrégation et traitement.
 
-Traite les 10 milions en 3,2s
+---
+
+## 🎯 Contexte
+
+Cette expérimentation fait suite à la conférence du **BreizhCamp 2024**  a laquelle j'ai assisté
+*“1 seconde pour traiter un milliard de lignes en Java ?”*
+
+L’objectif est de mettre en pratique les concepts abordés lors de la conférence à travers un projet concret, sans viser une solution extrême ou artificielle, mais en explorant progressivement les limites et axes d’optimisation.
+
+---
+
+## 🎯 Objectifs techniques
+
+- Explorer les problématiques de performance en Java
+- Travailler sur la lecture de fichiers volumineux
+- Observer l’impact mémoire et CPU
+- Tester différentes approches de traitement des données
+
+---
+
+## ⚙️ Fonctionnalités actuelles
+
+- Génération automatisée des données
+- Lecture et traitement du fichier en flux
+- Première implémentation fonctionnelle
+
+**État actuel :**
+- Fichier de 1 milliard de ligne bien généré
+- Traitement de 10 millions de lignes en ~3,2 secondes
+- Version initiale saturant la mémoire au-delà de ~10 millions de lignes
+
+---
+
+## 🛠️ Technologies
+
+- **Java**
+- Approche orientée performance et tests empiriques
+- Exécution locale
+
+---
+
+## 📌 Portée du projet
+
+- Projet exploratoire et évolutif
+- Code volontairement expérimental
+- Optimisations progressives prévues
+
+---
+
+## 🤝 Contact
+Projet personnel à but pédagogique, réalisé en parallèle d’autres projets afin de renforcer mes compétences en développement logiciel.
+Des remarques ? Des questions ?  
+N’hésitez pas à [me contacter](https://www.linkedin.com/in/simon-lefort-6a58a482/).
